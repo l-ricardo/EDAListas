@@ -1,4 +1,6 @@
-int main(int argc, char const *argv[])
+#include <stdio.h>
+
+int main()
 {
     printf("Ola Mundo\n");
     return 0;
